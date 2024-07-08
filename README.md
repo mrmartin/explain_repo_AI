@@ -1,3 +1,13 @@
+# Explain Repo AI
+
+`python3 filename_traversal.py /path/to/repository/`
+
+A very simple script for reading every relevant file in a project, summarizing it, and summarizing every folder. The result is a tree of summaries in `hierarchy.pkl`. 
+
+There's another script that converts `hierarchy.pkl` into `hierearchy.md`, which looks like this:
+
+`python3 visualize.py`
+
 - **/home/martin/Documents/explain_repo_AI/**
   - /home/martin/Documents/explain_repo_AI/filename_traversal.py
     - Summary:
