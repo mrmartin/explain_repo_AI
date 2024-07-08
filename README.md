@@ -20,4 +20,4 @@ There's another script that converts `hierarchy.pkl` into `hierearchy.md`, which
       The hierarchy.md file outlines the structure and contents of the mrmartin.github.io project directory, detailing various subdirectories, files, and summaries of resources such as blog posts, images, configuration files, and reusable components for a Jekyll-based website hosted by Martin Kolar.
   - /home/martin/Documents/explain_repo_AI/hierarchy.pkl (non-text file)
   - Summary:
-    The project folder at /home/martin/Documents/explain_repo_AI/ consists of scripts for traversing directories, summarizing text files with OpenAI's GPT-3.5-turbo, visualizing file hierarchies in a markdown format, and storing the structures in a pickle file - all tailored for analyzing and documenting the contents of the mrmartin.github.io project.
+    The project folder at /home/martin/Documents/explain_repo_AI/ consists of scripts for traversing directories, summarizing text files with OpenAI's GPT-3.5-turbo, visualizing file hierarchies in a markdown format, and storing the structures in a pickle file - includes example outputs on the mrmartin.github.io project.
