@@ -5,37 +5,60 @@
   <summary><b>/home/martin/Documents/mrmartin.github.io/css</b></summary>
   The main.scss file is a stylesheet file that likely contains styling rules and definitions written in SASS (Syntactically Awesome Style Sheets) for the main design of a web page.
 - <b>/home/martin/Documents/mrmartin.github.io/css/main.scss</b> (non-text file)
+
 </details>
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/about.md</b></summary>
   about.md is a markdown file that serves as a personal page introducing Martin Kolar, detailing his background, accomplishments, interests, and motivations, designed to be displayed on his website.
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/CNAME</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/images</b></summary>
   The folder contains a collection of images in various formats such as jpg, png, and gif, as well as a pdf file, likely used for visual content in a website or documentation.
 - <b>/home/martin/Documents/mrmartin.github.io/images/20161002_115845_HDR.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/20161001_134509_HDR.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/depth_chart.png</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/20161004_140412_HDR.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/20161005_142854_HDR.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/433_combined.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/Screenshot_2019-10-16_17-56-28.png</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/all_languages_HP_1_LSTM_3_layer.png</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/odbornici_nadrazi.pdf</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/mars.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/test.png</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/profile_VUT.jpeg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/Screenshot_2019-10-16_17-59-55.png</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/martin_portrait_dalle.gif</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/20161002_091333_HDR.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/hammerfall.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/20160930_130253_HDR.jpg</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/beer_vs_age.png</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/images/belarus.jpg</b> (non-text file)
+
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/CR_168_datasheet.pdf</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/On the undecidability of computational complexity.pdf.zip</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/_config.yml</b></summary>
   The _config.yml file is a configuration file for a Jekyll blog, defining site settings such as title, email, description, base URL, and theme, which affect the appearance and functionality of the website.
@@ -45,11 +68,13 @@
   The Gemfile specifies the required Ruby gems for a Jekyll website, manages the Jekyll version used to run the site, and includes the default theme and plugins to be used, such as "minima" and "github-pages".
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/more_of_two_best.zip</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/index.html</b></summary>
   The index.html file is a template for a blog page, using Jekyll syntax to dynamically generate a list of posts with dates and titles, along with an RSS subscription link, and including Google Analytics tracking code.
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/unpublished.7z</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/_posts</b></summary>
   The project folder contains a collection of markdown files that serve as blog posts on various topics, including discussions on innovative ideas, scientific concepts, technology applications, and personal experiences, authored by Martin and his AI assistant, detailing insights, analyses, and explorations into diverse subjects.
@@ -167,17 +192,21 @@
 </details>
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/movie.mp4</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/links.md</b></summary>
   links.md is a markdown file that organizes various categories of Martin's work, research, hobbies, space exploration interests, computing resources, technology for fun, and more with relevant links, providing a comprehensive overview of his diverse interests and projects.
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/for_colab.tar.gz</b> (non-text file)
+
 - <b>/home/martin/Documents/mrmartin.github.io/Bounded_Complexity_Languages.pdf</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/todo.md</b></summary>
   todo.md is a markdown file that outlines a long-term to-do list for tasks related to projects like subtitlecat.com, the Brno PhD Film alignment project, and the Mars Lottery project, specifying tasks and subtasks in an organized structure.
 </details>
 - <b>/home/martin/Documents/mrmartin.github.io/Constructing Inductive Complexity Programs.zip</b> (non-text file)
+
 <details>
   <summary><b>/home/martin/Documents/mrmartin.github.io/feed.xml</b></summary>
   The feed.xml file is an RSS feed template that generates a feed of the latest posts from a Jekyll website, including titles, descriptions, dates, links, and categories, using Liquid template tags to dynamically populate the content.

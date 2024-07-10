@@ -17,7 +17,7 @@ def generate_markdown(hierarchy, level=0):
             markdown += f"</details>\n"
         else:
             if content == "non-text file":
-                markdown += f"- <b>{path}</b> (non-text file)\n"
+                markdown += f"- <b>{path}</b> (non-text file)\n\n"
             else:
                 markdown += f"<details>\n"
                 markdown += f"  <summary><b>{path}</b></summary>\n"
