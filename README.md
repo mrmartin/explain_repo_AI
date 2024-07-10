@@ -28,4 +28,6 @@ There's another script that converts `hierarchy.pkl` into `hierearchy.md`, which
 - <b>/home/martin/Documents/explain_repo_AI/hierarchy.pkl</b> (non-text file)
 </details>
 
+## Another example 
 
+Open <i>hierarchy.md</i> above for a bigger example
