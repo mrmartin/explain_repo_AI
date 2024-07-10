@@ -11,16 +11,16 @@ def generate_markdown(hierarchy, level=0):
     for path, content in hierarchy.items():
         if isinstance(content, dict):
             markdown += f"<details>\n"
-            markdown += f"  <summary>{path}</summary>\n"
+            markdown += f"  <summary><b>{path}</b></summary>\n"
             markdown += f"  {content['summary']}\n"
             markdown += generate_markdown(content["contents"], level + 1)
             markdown += f"</details>\n"
         else:
             if content == "non-text file":
-                markdown += f"- {path} (non-text file)\n"
+                markdown += f"- <b>{path}</b> (non-text file)\n"
             else:
                 markdown += f"<details>\n"
-                markdown += f"  <summary>{path}</summary>\n"
+                markdown += f"  <summary><b>{path}</b></summary>\n"
                 markdown += f"  {content}\n"
                 markdown += f"</details>\n"
 
